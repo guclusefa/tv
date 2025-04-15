@@ -1,29 +1,5 @@
 #EXTM3U
 ## Catch-up TV & More
-#EXTINF:-1 tvg-name="OBS" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/obs.png" group-title="Catch-up TV & More" catchup="vod",OBS
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=obs
-
-#EXTINF:-1 tvg-name="OMN" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/omn.png" group-title="Catch-up TV & More" catchup="vod",OMN
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=omn
-
-#EXTINF:-1 tvg-name="ONN TV" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/onn.png" group-title="Catch-up TV & More" catchup="vod",ONN TV
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=onn
-
-#EXTINF:-1 tvg-name="Southern TV" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/south.png" group-title="Catch-up TV & More" catchup="vod",Southern TV
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=south
-
-#EXTINF:-1 tvg-name="Tigrai TV" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/tigrai.png" group-title="Catch-up TV & More" catchup="vod",Tigrai TV
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=tigrai
-
-#EXTINF:-1 tvg-name="Walta TV" tvg-logo="resource://resource.images.catchuptvandmore/channels/et/walta.png" group-title="Catch-up TV & More" catchup="vod",Walta TV
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/et/video2b/get_live_url/?item_id=walta
-
-#EXTINF:-1 tvg-name="TF1" tvg-id="C192.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/tf1.png" tvg-chno="1" group-title="Catch-up TV & More" catchup="vod",TF1
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/tf1plus/get_live_url/?item_id=tf1
-
-#EXTINF:-1 tvg-name="France 2" tvg-id="C4.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france2.png" tvg-chno="2" group-title="Catch-up TV & More" catchup="vod",France 2
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-2
-
 #EXTINF:-1 tvg-name="France 3" tvg-id="C80.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france3.png" tvg-chno="3" group-title="Catch-up TV & More" catchup="vod",France 3
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-3
 
